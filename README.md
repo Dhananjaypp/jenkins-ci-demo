@@ -1,2 +1,2 @@
-# Jenkins-ci-demo
+# Jenkins-CI-DEMO
 This repo contains files for CI demo
